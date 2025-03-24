@@ -6,8 +6,6 @@
 
 A smart documentation assistant powered by RAG (Retrieval-Augmented Generation) that helps answer questions about popular technical documentation using Groq's LLMs.
 
-![Demo](https://via.placeholder.com/800x400.png?text=DocuChat+Interface+Preview)
-
 ## Features ✨
 
 - **Multi-Document Support**: Query across 6 technical documentations simultaneously
